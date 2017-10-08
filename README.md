@@ -6,9 +6,11 @@
 [<img align="left" alt="MSWDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MSWDEV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
-<img align="left" alt="Matt's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mswdev&show_icons=true&hide_border=true" />
+<br />
 
+---
+
+<img align="left" alt="Matt's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mswdev&show_icons=true&hide_border=true" />
 
 [website]: https://msw.dev
 [twitter]: https://twitter.com/mswdev
