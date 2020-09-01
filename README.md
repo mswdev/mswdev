@@ -2,9 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=msw.dev&style=for-the-badge&url=https%3A%2F%2Fmsw.dev)](https://msw.dev)
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="MSWDEV Spotify Playing" width="350" />](https://open.spotify.com/user/sphiin.x)
-
 ### Connect With Me
 
 [<img align="left" alt="msw.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
