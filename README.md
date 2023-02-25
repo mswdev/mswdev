@@ -1,17 +1,6 @@
-[![Website](https://img.shields.io/website?label=msw.dev&style=for-the-badge&url=https%3A%2F%2Fmsw.dev)](https://msw.dev)
+CTO at Animal Farm, LLC & Brands - Happy Hippo, Gorilla Mind, Intelligent.<br><br>We're hiring Full Stack Engineers and many other roles, come join us at https://careers.animalfarm.inc/
 
-### Connect With Me
-
-[<img align="left" alt="msw.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MSWDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MSWDEV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ---
-
-<img align="left" alt="Matt's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mswdev&show_icons=true&hide_border=true" />
-
-[website]: https://msw.dev
-[twitter]: https://twitter.com/mswdev
-[linkedin]: https://linkedin.com/in/mswdev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mswdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mswdev) 
+[![](https://visitcount.itsvg.in/api?id=mswdev&icon=0&color=0)](https://visitcount.itsvg.in)
